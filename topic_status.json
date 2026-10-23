@@ -1,0 +1,56 @@
+{
+    "Arabic": {
+        "Education": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Climate Change": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "AI": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Hala Wala": {
+            "Writing": true,
+            "Speaking": true
+        }
+    },
+    "English": {
+        "Education": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Climate Change": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "AI": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Hala Wala": {
+            "Writing": true,
+            "Speaking": true
+        }
+    },
+    "German": {
+        "Education": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Climate Change": {
+            "Writing": true,
+            "Speaking": false
+        },
+        "AI": {
+            "Writing": true,
+            "Speaking": true
+        },
+        "Hala Wala": {
+            "Writing": false,
+            "Speaking": true
+        }
+    }
+}
